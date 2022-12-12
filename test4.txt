@@ -1,0 +1,45 @@
+START 
+
+number($digit, $gid_it){
+
+    aneurism_hours = 4/20;
+}
+
+word kevin = "kevin";
+
+
+christmas_time = "here";
+
+number($param, $param_two, $param_three, $param_four, $param_five, $param_six, $param_seven, $param_eight, $param_nine){
+    numbers = (((-7) * 8) % 9001);
+    num_apples(){
+        # this is a comment
+        # this comment spans multiple lines
+        #
+        #
+        #
+        #
+        #
+        #
+        #
+        #
+        #
+        #
+        #
+        # still a comment
+        #
+        #
+        #
+        #
+        #
+        try(70 >o= age){
+            death = "soon fr";
+        }
+        catch{
+            death = "later";
+        }
+    }
+}
+
+
+STOP
